@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "412960476895",
+    "firebase_url": "https://m8uf2p1beltranadrian-3b180.firebaseio.com",
+    "project_id": "m8uf2p1beltranadrian-3b180",
+    "storage_bucket": "m8uf2p1beltranadrian-3b180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412960476895:android:8cd7d9834d56a95284a36a",
+        "android_client_info": {
+          "package_name": "abeltran.example.m8uf2p1beltranadrian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412960476895-5gcf2vj6mquck7pip0ua0h9v9c7abbke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrkBQzkLR6MneY-NKRaDthUlx79DWd8Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412960476895-5gcf2vj6mquck7pip0ua0h9v9c7abbke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412960476895:android:2cd906820627a4ca84a36a",
+        "android_client_info": {
+          "package_name": "abeltran.example.m8uf2p2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412960476895-5gcf2vj6mquck7pip0ua0h9v9c7abbke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrkBQzkLR6MneY-NKRaDthUlx79DWd8Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412960476895-5gcf2vj6mquck7pip0ua0h9v9c7abbke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
